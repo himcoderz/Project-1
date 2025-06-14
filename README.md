@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Languages**
 
-- 👯 I’m looking to collaborate on [https://himcoderz.github.io/Project-1/](https://himcoderz.github.io/Project-1/)
+- 👯 I’m looking to collaborate on [https://himcoderz.github.io/ecommerce/](https://himcoderz.github.io/ecommerce/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/himcoderz/](https://github.com/himcoderz/)
 
